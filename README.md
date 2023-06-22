@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-Using-Sale-Data
+This is just a beginner data analysis project using Jupyter Notebook using Python and its libraries. This analysis involves with pandas library for cleaning the data and some plotting libraries in Python like matplotlib, and seaborn to visualize the data. Some Data Visualizations are done to give some insights from the data like which category has affected the sales at its maximum and given as the summary in the notebook. This notebook provides the details of the work done in data analysis.
